@@ -59,3 +59,8 @@ This takes about 15 mins to upload the file and replicate <br/>
 "Via Vendor" Most Retailers as Dell, HP and other major companies they already have a partnership with Microsoft where you can have them upload the Hash file prior to shipping the laptop. <br/>
 To do this you would require to contact your seller at your retailer, ask for the feature to be activated and they will send a link that the Global Admin, would have to approve <br/>
 
+# Once that CSV is been uploaded and comfirmed is replicated as well as the group Assigned with the device.
+For a Autopilot Sealed Experienced: <br/>
+  Start the Computer without Internet then when you get to the Window OOBE, connect the Computer via Wire, and Press the "Windows" key 5 Times. <br/>
+  
+Else you would have to have the user so he can login and the enrollment will happen under him   <br/>
